@@ -1,6 +1,6 @@
-- 👋 Hi, I’m sad-c0der
-- 👀 I’m interested in algorithms related to graph theory, virtualization, program analysis, malware
-- 🌱 I’m currently learning Symbolic Execution, Malware RE
-- 💞️ I’m looking to collaborate on nothing!
-- 📫 How to reach me, you can't if I don't want you too!
+-  Hi, I’m sad-c0der
+-  I’m interested in algorithms related to graph theory, virtualization, program analysis, malware
+-  I’m currently learning Symbolic Execution, Malware RE
+-  I’m looking to collaborate on nothing!
+-  How to reach me, you can't if I don't want you to!
 
