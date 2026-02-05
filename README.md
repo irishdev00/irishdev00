@@ -1,6 +1,5 @@
 -  Hi, I’m Derek aka irishdev00
--  I’m interested in algorithms related to graph theory, virtualization, program analysis, malware
--  I’m currently learning Symbolic Execution, Malware RE
--  I’m looking to collaborate on nothing!
--  How to reach me, you can't if I don't want you to!
+-  I’m interested in Algorithms, Code Transformations, Reverse Engineering, Kernel Exploitation, and Web Development
+-  I’m currently auditing the FreeBSD kernel 
+-  How to reach me, you can get me on Discord @ sadc0der
 
